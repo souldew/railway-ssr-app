@@ -1,6 +1,5 @@
 {
   "name": "railway-ssr-app",
-  "homepage": "https://souldew.github.io/railway-ssr-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
